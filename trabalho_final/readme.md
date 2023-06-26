@@ -3,7 +3,8 @@
 - Manoela Resende
 - Eduarda Sifuentes
 
-Este projeto é propriedade do perfil do GitHub de Manoela Resende (manoelargc). Ele foi desenvolvido como parte do Trabalho Final da disciplina de Comunicação de Dados do 3º Semestre de Ciência da Computação - 23.1.
+Este projeto é propriedade do perfil do GitHub de Manoela Resende (Propriedade
+Este trabalho é propriedade de Manoela Resende, perfil [manoelargc](https://github.com/manoelargc). Ele foi desenvolvido como parte do Trabalho Final da disciplina de Comunicação de Dados do 3º Semestre de Ciência da Computação - 23.1.
 
 
 ## Código 1 - Implementação da Topologia
