@@ -1,4 +1,4 @@
-# README 
+## README 
 # Trabalho Final - Comunicação de Dados - 3º Semestre - Ciência da Computação - 23.1
 - Manoela Resende
 - Eduarda Sifuentes
@@ -45,5 +45,7 @@ Para executar o código, siga as etapas abaixo:
 1. Certifique-se de ter o Mininet instalado.
 2. Abra um terminal e navegue até o diretório onde o arquivo do código está localizado.
 3. Execute o seguinte comando: `sudo python disjunto_q3.py`
+
+-------------
 
 Certifique-se de ter as dependências do Mininet instaladas, que o arquivo `hs1.txt` esteja no mesmo diretório do arquivo `myfirsttopo.py` e de seguir as instruções específicas de cada código.
